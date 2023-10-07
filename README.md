@@ -94,7 +94,7 @@ Each group is then iterated through, split into north and south, and then sorted
 
 Polyline showing the waypoints used to send the request            |  Polyline obtained in response
 :-------------------------:|:-------------------------:
-![](https://github.com/sachit24/Trial/assets/66550108/10ad7315-5d2c-4d42-9438-bdfbb4dd45e8)  |  ![](https://github.com/sachit24/Trial/assets/66550108/b24f2b4e-d80f-4b70-a301-0b9df8c3fab6)
+![](docs/Assets/Road_Request.png)  |  ![](docs/Assets/Road_Response.png)
 
 
 The [Json response](SampleJsonResponse.txt) is stored along with other information in a pickled file, the format of which (for one row) is as follows:
@@ -167,7 +167,7 @@ The groups are then iterated through, with each group containin the waypoints fo
 
 Polyline showing the waypoints used to send the request            |  Polyline obtained in response
 :-------------------------:|:-------------------------:
-![](https://github.com/sachit24/Trial/assets/66550108/f3ae8f6f-8c0c-4065-9b1a-b3f7ed13ea64)  |  ![](https://github.com/sachit24/Trial/assets/66550108/a1a009bd-7804-4b8b-91df-dea810bc3fdb)
+![](docs/Assets/Junction_Request.png)  |  ![](docs/Assets/Junction_Response.png)
 
 <br>
 
