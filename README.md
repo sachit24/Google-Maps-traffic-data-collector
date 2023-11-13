@@ -2,9 +2,6 @@
 
 This project serves to create a database of the traffic-flow conditions at the 129 main junctions in Chandigarh by sending automated requests to Google Maps using the Routes API. It can also be used as a template to perform a similar analysis across other cities.
 
-## Motivation
-
-To be filled 
 
 
 ## Methodology
